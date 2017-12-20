@@ -1,0 +1,10 @@
+,buying,maint,doors,persons,lug_boot,safety,Class
+0,vhigh,med,2,2,med,low,unacc
+1,low,high,5more,4,small,low,unacc
+2,high,high,3,4,med,low,unacc
+3,vhigh,high,2,2,big,low,unacc
+4,vhigh,high,2,2,big,med,unacc
+5,vhigh,med,4,more,small,med,unacc
+6,low,med,5more,2,small,high,unacc
+7,high,low,4,4,med,high,acc
+8,low,med,3,2,big,high,unacc
